@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>survey on Ferhat Eren Dalçık</title>
-    <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/survey/</link>
+    <link>https://ferend.github.io/Portfolio-Website/tags/survey/</link>
     <description>Recent content in survey on Ferhat Eren Dalçık</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ferend.github.io/Portfolio-Website/tags/survey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Labor Force Survey Analysis</title>
-      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-2/</link>
+      <link>https://ferend.github.io/Portfolio-Website/post/project-2/</link>
       <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-2/</guid>
+      <guid>https://ferend.github.io/Portfolio-Website/post/project-2/</guid>
       <description>This projects GitHub repository is available here
 Project Overview
  Analysis using survey results from TUIK about labor force. Data visualization and other regression models are created using R. Mainly focused on finding answers for gender-based wage inequality. Created output of the analysis using RMarkdown.  In this project I defined 2 questions related to Labor Force Survey for Istanbul. In first question I estimated an equation for wage, then in second question I determined whether or not a statistically significant gender base difference in the wages.</description>

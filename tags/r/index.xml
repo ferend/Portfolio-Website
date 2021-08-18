@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Ferhat Eren Dalçık</title>
-    <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/r/</link>
+    <link>https://ferend.github.io/Portfolio-Website/tags/r/</link>
     <description>Recent content in R on Ferhat Eren Dalçık</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jun 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ferend.github.io/Portfolio-Website/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Web Accessibility Analysis </title>
-      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-1/</link>
+      <link>https://ferend.github.io/Portfolio-Website/post/project-1/</link>
       <pubDate>Thu, 10 Jun 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-1/</guid>
+      <guid>https://ferend.github.io/Portfolio-Website/post/project-1/</guid>
       <description>This projects GitHub repository is available here
 Project Overview
  Developed an analysis project using R where I interpreted the accessibility scores of websites. Accessibility results of the 3 types of websites are collected from another tool. Created the “accessibility score” dataset for this analysis.    The Internet has become an indispensable usage tool of this age we live in. Now we can see it as one of the basic needs that everyone needs in the world.</description>
