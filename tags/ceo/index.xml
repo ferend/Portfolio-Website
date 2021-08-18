@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ceo on Ferhat Eren Dalçık</title>
+    <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/ceo/</link>
+    <description>Recent content in ceo on Ferhat Eren Dalçık</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/ceo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: CEO Salary Analysis</title>
+      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-3/</link>
+      <pubDate>Thu, 15 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-3/</guid>
+      <description>This projects GitHub repository is available here
+Project Overview
+ In this project, I defined 4 questions related to ceosal data. I started to answer the questions with an analysis of the data set. I aimed to find the relation between top CEO’s salaries and which type of accounting state of their company, such as Return on Sales, Return on Investments. I conducted my analysis and modeling using R. I also created an HTML output of the analysis using RMarkdown.</description>
+    </item>
+    
+  </channel>
+</rss>

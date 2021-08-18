@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ferhat Eren Dalçık</title>
+    <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/</link>
+    <description>Recent content in Projects on Ferhat Eren Dalçık</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: CEO Salary Analysis</title>
+      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-3/</link>
+      <pubDate>Thu, 15 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-3/</guid>
+      <description>This projects GitHub repository is available here
+Project Overview
+ In this project, I defined 4 questions related to ceosal data. I started to answer the questions with an analysis of the data set. I aimed to find the relation between top CEO’s salaries and which type of accounting state of their company, such as Return on Sales, Return on Investments. I conducted my analysis and modeling using R. I also created an HTML output of the analysis using RMarkdown.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Labor Force Survey Analysis</title>
+      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-2/</guid>
+      <description>This projects GitHub repository is available here
+Project Overview
+ Analysis using survey results from TUIK about labor force. Data visualization and other regression models are created using R. Mainly focused on finding answers for gender-based wage inequality. Created output of the analysis using RMarkdown.  In this project I defined 2 questions related to Labor Force Survey for Istanbul. In first question I estimated an equation for wage, then in second question I determined whether or not a statistically significant gender base difference in the wages.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Web Accessibility Analysis </title>
+      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-1/</link>
+      <pubDate>Thu, 10 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-1/</guid>
+      <description>This projects GitHub repository is available here
+Project Overview
+ Developed an analysis project using R where I interpreted the accessibility scores of websites. Accessibility results of the 3 types of websites are collected from another tool. Created the “accessibility score” dataset for this analysis.    The Internet has become an indispensable usage tool of this age we live in. Now we can see it as one of the basic needs that everyone needs in the world.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: FIFA 18 Ultimate Team EDA</title>
+      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-4-/</link>
+      <pubDate>Sat, 20 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-4-/</guid>
+      <description>This projects GitHub repository is available here
+Project Overview
+ Developed a project where I forecasted player values with predictive analytic techniques. Developed using R. Plots and other visualization techniques of R are used before analysis. Random Forest Model, Multiple Regression, Lasso and Ridge Regression, and Regression Tree models are used. Interpreted the models with their RMSE  In this project I defined 2 questions related to Labor Force Survey for Istanbul.</description>
+    </item>
+    
+  </channel>
+</rss>

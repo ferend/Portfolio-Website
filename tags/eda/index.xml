@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDA on Ferhat Eren Dalçık</title>
+    <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/eda/</link>
+    <description>Recent content in EDA on Ferhat Eren Dalçık</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/tags/eda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: FIFA 18 Ultimate Team EDA</title>
+      <link>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-4-/</link>
+      <pubDate>Sat, 20 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ferend.github.io/Ferhat-Eren-Dalcik-Portfolio/post/project-4-/</guid>
+      <description>This projects GitHub repository is available here
+Project Overview
+ Developed a project where I forecasted player values with predictive analytic techniques. Developed using R. Plots and other visualization techniques of R are used before analysis. Random Forest Model, Multiple Regression, Lasso and Ridge Regression, and Regression Tree models are used. Interpreted the models with their RMSE  In this project I defined 2 questions related to Labor Force Survey for Istanbul.</description>
+    </item>
+    
+  </channel>
+</rss>
