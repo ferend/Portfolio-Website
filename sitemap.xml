@@ -2,12 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ferend.github.io/Portfolio-Website/tags/ceo/</loc>
-    <lastmod>2021-07-15T10:58:08-04:00</lastmod>
+    <loc>https://ferend.github.io/Portfolio-Website/tags/games/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://ferend.github.io/Portfolio-Website/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ferend.github.io/Portfolio-Website/tags/play/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ferend.github.io/Portfolio-Website/tags/report/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ferend.github.io/Portfolio-Website/tags/store/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ferend.github.io/Portfolio-Website/tags/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ferend.github.io/Portfolio-Website/post/project-5/</loc>
+    <lastmod>2021-08-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ferend.github.io/Portfolio-Website/tags/ceo/</loc>
     <lastmod>2021-07-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -23,11 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://ferend.github.io/Portfolio-Website/tags/sales/</loc>
-    <lastmod>2021-07-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://ferend.github.io/Portfolio-Website/tags/</loc>
     <lastmod>2021-07-15T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
